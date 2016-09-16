@@ -24,7 +24,7 @@ public class ViboraApp extends Application {
         public static final int expunge = 90;
         public static final String number = "1";
         public static final int id = 1;
-        public static final String path = "http://vibora.de/feed/";
+        public static final String path = "http://feeds.feedburner.com/EnsinoBasico/eblogue";
     }
 
     public static class Source2 {

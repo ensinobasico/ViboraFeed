@@ -24,7 +24,7 @@ import android.text.TextUtils;
  */
 public class FeedContentProvider extends ContentProvider {
 
-    public static final String AUTHORITY = "de.vibora.viborafeed.contentprovider";
+    public static final String AUTHORITY = "org.escola.escolafeed.contentprovider";
     public static final String CONTENT_TYPE = ContentResolver.CURSOR_DIR_BASE_TYPE + "/feeds";
     public static final String CONTENT_ITEM_TYPE = ContentResolver.CURSOR_ITEM_BASE_TYPE + "/feed";
 

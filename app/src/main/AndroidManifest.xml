@@ -43,7 +43,7 @@
 
         <provider
             android:name=".FeedContentProvider"
-            android:authorities="de.vibora.viborafeed.contentprovider" >
+            android:authorities="org.escola.escolafeed.contentprovider" >
         </provider>
 
     </application>

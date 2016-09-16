@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vibora-Feed</string>
+    <string name="app_name">Escola Notícias</string>
     <string name="rss_url">Additional Feed</string>
     <string name="rss_url_desc">The http path to the rss 2.0 feed</string>
     <string name="rss_sec">Timer</string>

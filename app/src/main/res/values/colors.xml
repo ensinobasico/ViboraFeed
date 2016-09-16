@@ -7,7 +7,7 @@
     <color name="colorDate">#d6d7d7</color>
     <color name="colorBody">#808080</color>
 
-    <color name="colorPrimary">#000080</color>
-    <color name="colorPrimaryDark">#000080</color>
+    <color name="colorPrimary">#d6de4e</color>
+    <color name="colorPrimaryDark">#c1c93f</color>
     <color name="colorAccent">#FF4081</color>
 </resources>
